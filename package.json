@@ -61,7 +61,7 @@
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "uglify-js": "^3.6.7"
+    "uglify-js": "^3.7.1"
   },
   "dependencies": {
     "eslint-plugin-react-hooks": "^1.7.0"
